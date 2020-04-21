@@ -4,7 +4,7 @@
 
 - Clone the repository
 - MySQL create database name: laravel_hotel_booking
-- Update inv with your MySQL database username and password
+- Copy .env.example to .env and update your MySQL database username and password
 - Open CMD
 - Run composer install
 - Run php artisan key:generate
